@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.greensand321.twa",
-        "sha256_cert_fingerprints": ["73:F7:4A:83:AA:2E:BC:22:B5:DE:99:28:FE:2F:E0:31:A3:F6:DF:FE:E7:7A:12:0A:66:0B:C5:40:76:36:B7:6D"]
-      }
-    }]
